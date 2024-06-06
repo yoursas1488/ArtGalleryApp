@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19969197318",
+    "project_id": "artgallery-453fa",
+    "storage_bucket": "artgallery-453fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19969197318:android:7cc8e593449c54d1420a87",
+        "android_client_info": {
+          "package_name": "com.example.artgalery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjb4VogCXfvFWi0kzcIZwj3RBg1jCzQI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
